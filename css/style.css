@@ -5,12 +5,12 @@ body {
 }
 
 table {
-	width: 800px;
-	height: 600px;
+	width: 510px;
+    height: 550px;
     margin: 40px;
     border-collapse: collapse;
 }
 
  td {
-    border: 5px solid #000;
+    border: 10px solid #000;
  }
