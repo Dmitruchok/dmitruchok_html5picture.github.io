@@ -1,0 +1,16 @@
+
+
+body {
+    font-family: "Myriad Pro", Myriad, Arial;
+}
+
+table {
+	width: 800px;
+	height: 600px;
+    margin: 40px;
+    border-collapse: collapse;
+}
+
+ td {
+    border: 5px solid #000;
+ }
